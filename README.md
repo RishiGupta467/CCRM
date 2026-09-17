@@ -30,7 +30,7 @@ The **Campus Course & Records Manager (CCRM)** is a comprehensive console-based 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/CodeWithAmrat/CCRM.git
+   git clone https://github.com/RishiGupta467/CCRM.git
    cd CCRM
    ```
 
@@ -331,8 +331,8 @@ No external dependencies or build tools required.
 ## 👨‍💻 Author
 
 **CodeWithAmrat**
-- GitHub: [@CodeWithAmrat](https://github.com/CodeWithAmrat)
-- Project: [CCRM Repository](https://github.com/CodeWithAmrat/CCRM)
+- GitHub: [@CodeWithAmrat](https://github.com/RishiGupta467)
+- Project: [CCRM Repository](https://github.com/RishiGupta467/CCRM.git)
 
 ## 🙏 Acknowledgments
 
